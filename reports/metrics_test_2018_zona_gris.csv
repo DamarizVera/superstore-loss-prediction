@@ -1,0 +1,5 @@
+modelo,ROC-AUC,PR-AUC,precisión,recall,F1
+Regla: descuento > 20%,0.7114,0.5156,0.9257,0.4377,0.5944
+Regresión logística,0.928,0.8017,0.7885,0.5719,0.663
+Random Forest,0.9444,0.8471,0.7525,0.7188,0.7353
+Gradient Boosting,0.9514,0.8598,0.8226,0.6965,0.7543

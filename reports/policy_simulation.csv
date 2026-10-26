@@ -1,0 +1,4 @@
+política,líneas marcadas,de ellas con pérdida real,"A) tope 20%, mismo volumen",B) no vender lo marcado,"C) mitad acepta el tope, mitad se pierde"
+Sin política (actual),0,0,0.0,0.0,0.0
+Regla: descuento > 20%,455,444,71541.0,47570.0,59556.0
+Modelo (Gradient Boosting),572,525,70885.0,50715.0,60800.0

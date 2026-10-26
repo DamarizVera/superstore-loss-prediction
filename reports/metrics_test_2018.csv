@@ -1,0 +1,5 @@
+modelo,umbral,ROC-AUC,PR-AUC,precisión,recall,F1,Brier
+Regla: descuento > 20%,0.2,0.9403,0.8142,0.9758,0.7161,0.826,
+Regresión logística,0.502,0.9851,0.9466,0.9101,0.7839,0.8423,0.0363
+Random Forest,0.369,0.9881,0.9578,0.8779,0.8581,0.8679,0.0333
+Gradient Boosting,0.489,0.99,0.9627,0.9178,0.8468,0.8809,0.0309

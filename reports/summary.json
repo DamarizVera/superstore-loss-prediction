@@ -1,0 +1,11 @@
+{
+  "mejor_modelo": "Gradient Boosting",
+  "umbral": 0.4889981857842561,
+  "train_years": [
+    2015,
+    2017
+  ],
+  "test_year": 2018,
+  "lineas_test": 3312,
+  "tasa_perdida_test": 0.18719806763285024
+}
